@@ -1,6 +1,6 @@
 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D2710D&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Ricardo+Pereira;I'm+38+years+old;I'm+from+Brasília,+DF;I'm+DevOps+student;Be+very+welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D2710D&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Ricardo+Pereira;I'm+38+years+old;I'm+from+Brasília,+DF;I'm+DevOps;Be+very+welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ricardopereiradevops&show_icons=true&count_private=true&hide_border=true&title_color=D2710D&icon_color=372613&text_color=c9d1d9&bg_color=0d1117" alt="Ricardo Pereira DevOps github stats" /> 
